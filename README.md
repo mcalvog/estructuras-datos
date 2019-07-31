@@ -6,7 +6,22 @@ Diferentes implementaciones de estructurar datos en Java.
 
 ## Índice
 
+### Listas
+
  - [Lista Enlazada](https://github.com/mcalvog/estructuras-datos/tree/master/ListaEnlazada).
+ - [Lista Doblemente Enlazada](https://github.com/mcalvog/estructuras-datos/tree/master/ListaDoblementeEnlazada).
+ - Lista Circular.
+
+### Colas
+
+ - Cola Lista Enlazada.
+ - Cola Array.
+ - Bicola.
+
+### Pilas
+
+ - Pila Lista Enlazada.
+ - Pila Array.
 
 ---
 
