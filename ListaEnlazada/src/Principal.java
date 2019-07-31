@@ -12,7 +12,7 @@ public class Principal {
 		// Imprimir datos de la lista
 		lista.visualizar();
 
-		// Eliminamos el 4
+		// Eliminar el 4
 		lista.eliminar(4);
 
 		System.out.println(); // Salto de linea

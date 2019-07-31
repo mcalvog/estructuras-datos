@@ -61,31 +61,6 @@ public class Lista {
 	}
 
 	/**
-	 * Visualizar contenido de la lista
-	 */
-	public void visualizar() {
-		Nodo n = primero;
-
-		while (n != null) {
-			System.out.print(n.getDato() + ", ");
-			n = n.getEnlace();
-		}
-	}
-
-	/**
-	 * Visualizar contenido de la lista mediante iterador
-	 */
-	public void visualizarIterador() {
-		ListaIterador iterador = new ListaIterador(this);
-		Object dato = iterador.siguiente(); // Primer elemento
-
-		while (dato != null) {
-			System.out.print(dato + ", ");
-			dato = iterador.siguiente();
-		}
-	}
-
-	/**
 	 * Buscar un elemento en la lista
 	 * 
 	 * @param dato
@@ -127,6 +102,31 @@ public class Lista {
 		}
 
 		return indice;
+	}
+
+	/**
+	 * Visualizar contenido de la lista
+	 */
+	public void visualizar() {
+		Nodo n = primero;
+
+		while (n != null) {
+			System.out.print(n.getDato() + ", ");
+			n = n.getEnlace();
+		}
+	}
+
+	/**
+	 * Visualizar contenido de la lista mediante iterador
+	 */
+	public void visualizarIterador() {
+		ListaIterador iterador = new ListaIterador(this);
+		Object dato = iterador.siguiente(); // Primer elemento
+
+		while (dato != null) {
+			System.out.print(dato + ", ");
+			dato = iterador.siguiente();
+		}
 	}
 
 	public Nodo leerPrimero() {
