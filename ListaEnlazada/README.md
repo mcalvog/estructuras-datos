@@ -2,9 +2,9 @@
 
 >Una lista enlazada es una colección o secuencia de elementos dispuestos uno detrás de otro, en la que cada elemento se conecta al siguiente elemento por un “enlace” o “referencia”. La idea básica consiste en construir una lista cuyos elementos, llamados nodos, se componen de dos partes (campos): la primera parte contiene la información y es, por consiguiente, un valor de un tipo genérico (denominado Dato, TipoElemento, Info , etc.), y la segunda parte es una referencia (denominado enlace o sgte ) que apunta (enlaza) al siguiente elemento de la lista. 
 
-<p style='text-align: right;'><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
+<p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-![Lista enlazada - calcifer.org](http://www.calcifer.org/documentos/librognome/img/lista.png)
+<p align="center"><img src="http://www.calcifer.org/documentos/librognome/img/lista.png" alt="Lista enlazada - calcifer.org"/></p>
 
 ## Métodos implementados
 

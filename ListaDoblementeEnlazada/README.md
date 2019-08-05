@@ -2,9 +2,9 @@
 
 >Hasta ahora, el recorrido de una lista se ha realizado en sentido directo (adelante). Existen numerosas aplicaciones en las que es conveniente poder acceder a los elementos o nodos de una lista en cualquier orden, tanto hacia adelante como hacia atrás. En este caso, se recomienda el uso de una lista doblemente enlazada. En esta lista, cada elemento contiene dos punteros (referencias), además del valor almacenado. Una referencia apunta al siguiente elemento de la lista y la otra referencia apunta al elemento anterior.
 
-<p style='text-align: right;'><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
+<p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-<img src="http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/listas_doblemente_enlazadas.jpg" alt="Lista doblemente enlazada - cidecame.uaeh.edu.mx" width="600"/>
+<p align="center"><img src="http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/listas_doblemente_enlazadas.jpg" alt="Lista doblemente enlazada - cidecame.uaeh.edu.mx" width="600"/></p>
 
 ## Métodos implementados
 

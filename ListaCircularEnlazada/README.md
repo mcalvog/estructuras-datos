@@ -2,9 +2,9 @@
 
 >En las listas lineales simples o en las dobles siempre hay un primer nodo (cabeza) y un último nodo (cola). Una lista circular, por propia naturaleza, no tiene ni principio ni fin. Sin embargo, resulta útil establecer un nodo a partir del cual se acceda a la lista y así poder acceder a sus nodos. La figura muestra una lista circular con enlace simple; podría considerarse que es una lista lineal cuyo último nodo apunta al primero.
 
-<p style='text-align: right;'><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
+<p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-<img src="http://blogs.unlp.edu.ar/programacion2/files/2012/08/LC.jpg" alt="Lista circular enlazada - unlp.edu.ar" width="460"/>
+<p align="center"><img src="http://blogs.unlp.edu.ar/programacion2/files/2012/08/LC.jpg" alt="Lista circular enlazada - unlp.edu.ar" width="460"/></p>
 
 ## Métodos implementados
 
