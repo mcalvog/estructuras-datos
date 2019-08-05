@@ -14,9 +14,9 @@ Diferentes implementaciones de estructurar datos en Java.
 
 ### Colas
 
- - Cola Lista Enlazada.
- - Cola Array.
- - Bicola.
+ - [Cola Lista Enlazada](https://github.com/mcalvog/estructuras-datos/tree/master/ColaListaEnlazada).
+ - [Cola Array](https://github.com/mcalvog/estructuras-datos/tree/master/ColaArray).
+ - [Bicola](https://github.com/mcalvog/estructuras-datos/tree/master/Bicola).
 
 ### Pilas
 
