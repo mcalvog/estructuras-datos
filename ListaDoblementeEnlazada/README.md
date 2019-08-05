@@ -4,8 +4,9 @@
 
 <p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-<p align="center"><img src="http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/listas_doblemente_enlazadas.jpg" alt="Lista doblemente enlazada - cidecame.uaeh.edu.mx" width="600"/></p>
+<br/>
 
+<p align="center"><img src="http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/listas_doblemente_enlazadas.jpg" alt="Lista doblemente enlazada - cidecame.uaeh.edu.mx" width="600"/></p>
 ## Métodos implementados
 
 ### ListaDoblementeEnlazada

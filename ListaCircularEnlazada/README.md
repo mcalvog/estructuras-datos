@@ -4,8 +4,9 @@
 
 <p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-<p align="center"><img src="http://blogs.unlp.edu.ar/programacion2/files/2012/08/LC.jpg" alt="Lista circular enlazada - unlp.edu.ar" width="460"/></p>
+<br/>
 
+<p align="center"><img src="http://blogs.unlp.edu.ar/programacion2/files/2012/08/LC.jpg" alt="Lista circular enlazada - unlp.edu.ar" width="460"/></p>
 ## Métodos implementados
 
 ### ListaCircular

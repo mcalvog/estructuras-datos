@@ -4,8 +4,9 @@
 
 <p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pila.svg/1200px-Pila.svg.png" alt="Pila - Wikipedia" width="300"/></p>
+<br/>
 
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Pila.svg/1200px-Pila.svg.png" alt="Pila - Wikipedia" width="300"/></p>
 ## Métodos implementados
 
 ### PilaListaEnlazada

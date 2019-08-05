@@ -3,6 +3,7 @@
 >Una pila (stack) es una colección ordenada de elementos a los cuales sólo se puede acceder por un único lugar o extremo de la pila. Los elementos se añaden o se quitan (borran) de la pila sólo por su parte superior (cima). Este es el caso de una pila de platos, una pila de libros, etc. 
 
 <p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
+<br/>
 
 <p align="center"><img src="https://player.slideplayer.es/11/2965781/data/images/img8.png" alt="Pilas (Stacks) - Emigdio Becerril" width="450"/></p>
 ## Métodos implementados
@@ -39,9 +40,9 @@ public int contarDatos() { }
 public void imprimir() { }
 ```
 
-- Obtener tamaño de la pila
+- Obtener tamaño máximo de la pila
 ```java
-public int tamPila() { }
+public int tamMax() { }
 ```
 
 - Comprobar si la pila está vacía

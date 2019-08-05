@@ -4,9 +4,9 @@ public class PilaArray {
 	private int cima;
 	private Object[] listaPila;
 
-	public PilaArray(int tamPila) {
+	public PilaArray(int tamMax) {
 		cima = -1;
-		listaPila = new Object[tamPila];
+		listaPila = new Object[tamMax];
 	}
 
 	/**
@@ -59,7 +59,7 @@ public class PilaArray {
 	 * Vaciar pila
 	 */
 	public void limpiarPila() {
-		for (int i = 0; i < listaPila.length; i++) {
+		for (int i = 0; i < tamMax(); i++) {
 			listaPila[i] = null;
 		}
 
@@ -74,7 +74,7 @@ public class PilaArray {
 	public int contarDatos() {
 		int contador = 0;
 
-		for (int i = 0; i < listaPila.length; i++) {
+		for (int i = 0; i < tamMax(); i++) {
 			if (listaPila[i] != null) {
 				contador++;
 			}
@@ -87,7 +87,7 @@ public class PilaArray {
 	 * Imprimir elementos de la pila
 	 */
 	public void imprimir() {
-		for (int i = 0; i < listaPila.length; i++) {
+		for (int i = 0; i < tamMax(); i++) {
 			Object datoActual = listaPila[i];
 
 			if (datoActual != null) {
@@ -97,11 +97,11 @@ public class PilaArray {
 	}
 
 	/**
-	 * Obtener tamano de la pila
+	 * Obtener tamano maximo de la pila
 	 * 
 	 * @return
 	 */
-	public int tamPila() {
+	public int tamMax() {
 		return listaPila.length;
 	}
 
@@ -120,7 +120,7 @@ public class PilaArray {
 	 * @return
 	 */
 	public boolean pilaLlena() {
-		return cima == listaPila.length - 1;
+		return cima == tamMax() - 1;
 	}
 
 }

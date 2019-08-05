@@ -4,8 +4,9 @@
 
 <p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 
-<p align="center"><img src="http://www.calcifer.org/documentos/librognome/img/lista.png" alt="Lista enlazada - calcifer.org"/></p>
+<br/>
 
+<p align="center"><img src="http://www.calcifer.org/documentos/librognome/img/lista.png" alt="Lista enlazada - calcifer.org"/></p>
 ## Métodos implementados
 
 ### Lista
