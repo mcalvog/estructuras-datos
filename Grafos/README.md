@@ -1,6 +1,6 @@
 # Grafos
 
->Un grafo G agrupa entes físicos o conceptuales y las relaciones entre ellos. Un grafo está formado por un conjunto de vértices o nodos V , que representan a los entes, y un conjunto de arcos A, que representan las relaciones entre vértices
+>Un grafo G agrupa entes físicos o conceptuales y las relaciones entre ellos. Un grafo está formado por un conjunto de vértices o nodos V , que representan a los entes, y un conjunto de arcos A, que representan las relaciones entre vértices.
 
 <p align="right"><b>Estructuras de datos en Java</b> - <i>Luis Joyanes Aguilar</i> e <i>Ignacio Zahonero Martínez</i>.</p>
 <br/>

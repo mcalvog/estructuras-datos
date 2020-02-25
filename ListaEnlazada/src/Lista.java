@@ -89,7 +89,7 @@ public class Lista {
 	public Nodo buscarPosicion(int posicion) {
 		Nodo indice = primero;
 
-		// La posicion tiene que ser mayor a cero
+		// La posicion tiene que ser mayor o igual a cero
 		if (posicion < 0)
 			return null;
 
